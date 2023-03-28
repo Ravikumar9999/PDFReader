@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-15T22:27:40 IST" name="Default suite" finished-at="2023-03-15T22:27:44 IST" duration-ms="3918">
+    <groups>
+    </groups>
+    <test started-at="2023-03-15T22:27:40 IST" name="Default test" finished-at="2023-03-15T22:27:44 IST" duration-ms="3918">
+      <class name="pdfReader.PDFReaderTest">
+        <test-method signature="readPDFTest()[pri:0, instance:pdfReader.PDFReaderTest@16ec5519]" started-at="2023-03-15T22:27:40 IST" name="readPDFTest" finished-at="2023-03-15T22:27:44 IST" duration-ms="3873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readPDFTest -->
+      </class> <!-- pdfReader.PDFReaderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
